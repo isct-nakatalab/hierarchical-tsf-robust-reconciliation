@@ -2,12 +2,14 @@
 
 ## Repository Structure
 
+```
 .
 ├── data/                   # datasets
 ├── hierarchical_forecast/  # python files for forecasting and evaluation
 ├── main.ipynb              # jupyter notebook for experiments
 ├── README.md
 └── requirements.txt
+```
 
 ## Requirements
 
@@ -47,3 +49,4 @@ The roles of each section in `main.ipynb` are as follows.
 - **Swiss electricity demand data**
   - Paper: [19] L. Nespoli, V. Medici, K. Lopatichki, and F. Sossan. Hierarchical demand forecasting benchmark for the distribution grid. *Electric Power Systems Research*, 189:106755, 2020.
   - Data: [https://zenodo.org/records/3463137#.XY3GqvexWV4](https://zenodo.org/records/3463137#.XY3GqvexWV4)
+
